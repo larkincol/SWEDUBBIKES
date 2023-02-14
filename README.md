@@ -1,2 +1,2 @@
 # SWEASSIGNMENT1
- Arnas, Cormac, Colman software engineering assignment 1
+ Arnas, Cormac, Colmán software engineering assignment 1
