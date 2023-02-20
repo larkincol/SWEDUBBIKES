@@ -2,3 +2,5 @@
 
 #the code should look something like this
 print("Hello world" + "Cormac")
+
+print("Hello world" + "Arnas ^.^")
